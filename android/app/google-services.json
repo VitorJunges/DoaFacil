@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141627001757",
+    "firebase_url": "https://ong-topicos-default-rtdb.firebaseio.com",
+    "project_id": "ong-topicos",
+    "storage_bucket": "ong-topicos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141627001757:android:14bc5931191e2686917d74",
+        "android_client_info": {
+          "package_name": "com.example.topicos_inicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141627001757-vres3l7c1kii34h3uciu20qatsscnbc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1z9NjLzpUmUBKwsxTCZ4EFmbqA3Q-vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141627001757-vres3l7c1kii34h3uciu20qatsscnbc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141627001757-dq2vej7t68276fe7kc81ldlf7n579q8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.topicosInicio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>141627001757-dq2vej7t68276fe7kc81ldlf7n579q8b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.141627001757-dq2vej7t68276fe7kc81ldlf7n579q8b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTxSMzAF3hkZSW1koDrR6ShNkyH-qEr8Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>141627001757</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.topicosInicio</string>
+	<key>PROJECT_ID</key>
+	<string>ong-topicos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ong-topicos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:141627001757:ios:37051e6e44cd9660917d74</string>
+	<key>DATABASE_URL</key>
+	<string>https://ong-topicos-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
