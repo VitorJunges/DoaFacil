@@ -1,16 +1,8 @@
-# topicos_inicio
+# DoeFácil
+DoeFácil é um app que facilita o contato de ONGs com pessoas que querem doar com segurança e facilidade.
 
-A new Flutter project.
+Para gerar um apk do app basta executar: 
+Run flutter build apk --split-per-abi
 
-## Getting Started
+E então baixar em seu celular.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
