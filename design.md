@@ -1,0 +1,1 @@
+Este app foi construído baseado em um projeto de uma rede social feito em Flutter, sendo assim ele foi criado com o uso de Flutter e Firabase/Firestore como banco de dados, dentro do app pode criar perfis como usuario normal, ou como ONG e então compartilhar seu trabalho e cativar mais pessoas a ajudarem no seu projeto.
